@@ -1,0 +1,1 @@
+E:\OneDrive\real-code\scr\github.com\realzuojianxiang\rust-programming-exersice\book-programming-rust\target\debug\book-programming-rust.exe: E:\OneDrive\real-code\scr\github.com\realzuojianxiang\rust-programming-exersice\book-programming-rust\src\main.rs
